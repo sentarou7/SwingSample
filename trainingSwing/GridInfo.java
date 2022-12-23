@@ -1,6 +1,6 @@
 package trainingSwing;
 
-// ★
+
 public class GridInfo {
 
 	private int gridXNum; //マスの横数
