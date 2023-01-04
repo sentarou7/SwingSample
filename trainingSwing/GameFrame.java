@@ -9,7 +9,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 
 public class GameFrame extends JFrame implements MouseListener {
-	//ゲーム状態フラグ定数(タイトル画面時)
+	//ゲーム状態フラグ定数(タイトル画面
     private static final int GAME_WAIT = 0;
     
     //ゲーム状態フラグ定数(ゲーム中)
